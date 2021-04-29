@@ -1,0 +1,57 @@
+body {
+
+  width: 1688px;
+  height: 2558px;
+  background-color: #353b3a;
+  background-image:
+    url('https://i.imgur.com/lXR67z1.png'),
+    url('https://i.imgur.com/NSRkHdz.png');
+
+  background-repeat: no-repeat, repeat;
+
+  background-attachment: scroll;
+
+  background-position:
+  0px 0px;
+
+  background-size:
+  auto;
+}
+
+#text1{
+  color: #5c034a;
+  background-color: #af82c2;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1800px;
+  right: -130px;
+  width: 450px;
+}
+
+#text2{
+  color: #5c034a;
+  background-color: #b80676;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -400px;
+  right: 730px;
+  width: 450px;
+  font-size: 30px;
+}
+
+#text3{
+  color: #5c034a;
+  background-color: #cc8bb4;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1300px;
+  right: 780px;
+  width: 450px;
+  font-size: 25px;
+}
